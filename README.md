@@ -1,2 +1,2 @@
 # demo
-demo for python programming for image and video processing
+demo of python programming for image and video processing
